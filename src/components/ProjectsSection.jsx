@@ -7,8 +7,8 @@ const projects = [
     description: "A beautiful Portfolio website using React and Tailwind.",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "Vite"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://react-portfolio-tan-alpha.vercel.app",
+    githubUrl: "https://github.com/Swati-0301/react-portfolio",
   },
   {
     id: 2,
@@ -17,8 +17,8 @@ const projects = [
       "Full-Stack web application for Charging Stations listing with login and register",
     image: "/projects/project2.png",
     tags: ["Node", "Express", "React", "MongoDB"],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "https://charging-stations-frontend-nine.vercel.app",
+    githubUrl: "https://github.com/Swati-0301/charging-stations",
   },
   {
     id: 3,
